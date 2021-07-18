@@ -13,5 +13,5 @@ module.exports.run = ({ event, api }) => api.sendMessage(`Điều khoản sử d
 1: Không spam lệnh bot, spam prefix quá nhiều gây die bot,cp....
 2: Không gây war với bot ( modules sim ... ) vì đây không phải người dùng tương tác thật !
 3: Không lạm dụng bot vào mục đích xấu.,...
-4: Không lạm dụng chức năng antiout để tránh việc bị mirai team gban
+4: Lặp lại 3 điều trên !!!
 © Bot Made By Mirai Team `, event.threadID, event.messageID);
